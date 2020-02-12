@@ -1,2 +1,2 @@
 # Setswana-Chatbot
-Sunflower - A tswana chatbot created using Chatterbot and other pakages [IN PROGRESS]
+Sunflower - A tswana speaking chatbot created using Chatterbot and other packages.
